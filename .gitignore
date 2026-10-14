@@ -1,7 +1,10 @@
 .env
+backend/.env
 .venv/
 __pycache__/
+node_modules/
 *.py[cod]
+*.pyc
 .pytest_cache/
 .streamlit/secrets.toml
 data/*.db
