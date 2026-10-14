@@ -43,7 +43,7 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1>BetEdge</h1>
+        <h1>Sports Predictor</h1>
         <p className="subtitle">Statistical value bet finder</p>
       </header>
 

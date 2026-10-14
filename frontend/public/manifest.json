@@ -1,6 +1,6 @@
 {
-  "name": "BetEdge — Value Bet Finder",
-  "short_name": "BetEdge",
+  "name": "Sports Predictor — Value Bet Finder",
+  "short_name": "SportsPredictor",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#1a1a2e",
